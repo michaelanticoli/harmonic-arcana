@@ -1,2 +1,0 @@
-# harmonic-arcana
-Harmonic Arcana 
